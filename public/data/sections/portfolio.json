@@ -32,33 +32,6 @@
       "items": [
         {
           "categoryId": "apps",
-          "icon": {
-            "img": "images/pictures/project-logo-7.png",
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
-          },
-
-          "links": [
-            { "faIcon": "fa-brands fa-apple", "href": "https://apple.com" },
-            {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://google.com"
-            }
-          ],
-
-          "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
-            "screenshots": {
-              "aspectRatio": "9:16",
-              "images": [
-                "images/pictures/project-screenshot-1.webp",
-                "images/pictures/project-screenshot-2.webp",
-                "images/pictures/project-screenshot-3.webp",
-                "images/pictures/project-screenshot-4.webp",
-                "images/pictures/project-screenshot-5.webp"
-              ]
-            }
-          },
 
           "locales": {
             "en": {
@@ -75,26 +48,6 @@
             "img": "images/pictures/project-logo-6.png",
             "fa": "",
             "faColors": { "bg": null, "fill": null }
-          },
-
-          "links": [
-            { "faIcon": "fa-brands fa-apple", "href": "https://apple.com" },
-            {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://google.com"
-            }
-          ],
-
-          "media": {
-            "youtubeVideo": null,
-            "screenshots": {
-              "aspectRatio": "16:9",
-              "images": [
-                "images/pictures/project-screenshot-6.png",
-                "images/pictures/project-screenshot-7.png",
-                "images/pictures/project-screenshot-8.png"
-              ]
-            }
           },
 
           "locales": {
@@ -160,11 +113,14 @@
         {
           "categoryId": "websites",
           "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://novakidset.com/" }
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://www.youtube.com/watch?v=RqMU4cgDDiM"
+            }
           ],
 
           "media": {
-            "youtubeVideo": "",
+            "youtubeVideo": "https://www.youtube.com/watch?v=RqMU4cgDDiM",
             "screenshots": {
               "aspectRatio": null,
               "images": []
@@ -175,18 +131,13 @@
             "en": {
               "title": "Hikell Ecommerce",
               "text": "A dynamic <b>eCommerce website</b> built with <b>Laravel</b>, featuring a full shopping cart system, a multi-vendor marketplace where merchants can manage their own stores, and secure payment integrations with Stripe and Chapa.",
-              "tags": ["Laravel", "PHP", "Blade"]
+              "tags": ["Laravel", "Payment Integration", "Blade"]
             }
           }
         },
 
         {
           "categoryId": "websites",
-          "icon": {
-            "img": null,
-            "fa": "fa-solid fa-guitar",
-            "faColors": { "bg": "#111", "fill": "#EEE" }
-          },
 
           "links": [
             {
@@ -213,18 +164,6 @@
         },
         {
           "categoryId": "websites",
-          "icon": {
-            "img": null,
-            "fa": "fa-solid fa-guitar",
-            "faColors": { "bg": "#111", "fill": "#EEE" }
-          },
-
-          "links": [
-            {
-              "faIcon": "fa-solid fa-link",
-              "href": "https://github.com/wallelignworkie/Abay-Ecommerce"
-            }
-          ],
 
           "media": {
             "youtubeVideo": "",
@@ -244,42 +183,31 @@
         },
         {
           "categoryId": "websites",
-          "icon": {
-            "img": null,
-            "fa": "fa-solid fa-guitar",
-            "faColors": { "bg": "#111", "fill": "#EEE" }
-          },
-
-          "links": [
-            {
-              "faIcon": "fa-solid fa-link",
-              "href": "https://github.com/wallelignworkie/Abay-Ecommerce"
-            }
-          ],
 
           "media": {
-            "youtubeVideo": "",
+            "youtubeVideo": null,
             "screenshots": {
-              "aspectRatio": null,
-              "images": []
+              "aspectRatio": "16:9",
+              "images": [
+                "images/pictures/kb-9.jpg",
+                "images/pictures/kb-11.jpg",
+                "images/pictures/kb-2.jpg",
+                "images/pictures/kb-6.jpg",
+                "images/pictures/kb-7.jpg"
+              ]
             }
           },
 
           "locales": {
             "en": {
               "title": "Kegebrew Credit Management System",
-              "text": "A <b>platform</b> built with <b>Node.js</b>, <b>Express.js</b>, and <b>React</b>, designed to help credit companies manage employee loans. The system facilitates issuing credits based on guarantees provided by companies or individuals, ensuring secure tracking and streamlined credit management.",
-              "tags": ["Node", "Express Js", "React"]
+              "text": "A <b>platform</b> built with <b>Nest.js</b>, <b>Next Js.js</b>, designed to help credit companies manage employee loans. The system facilitates issuing credits based on guarantees provided by companies or individuals, ensuring secure tracking and streamlined credit management.",
+              "tags": ["Nest Js", "MongoDB", "Next Js"]
             }
           }
         },
         {
           "categoryId": "websites",
-          "icon": {
-            "img": null,
-            "fa": "fa-solid fa-guitar",
-            "faColors": { "bg": "#111", "fill": "#EEE" }
-          },
 
           "links": [
             {
@@ -306,21 +234,16 @@
         },
         {
           "categoryId": "websites",
-          "icon": {
-            "img": null,
-            "fa": "fa-solid fa-guitar",
-            "faColors": { "bg": "#111", "fill": "#EEE" }
-          },
 
           "links": [
             {
               "faIcon": "fa-solid fa-link",
-              "href": "https://github.com/wallelignworkie/Abay-Ecommerce"
+              "href": "https://www.youtube.com/watch?v=UAnOkOtOdMc"
             }
           ],
 
           "media": {
-            "youtubeVideo": "",
+            "youtubeVideo": "https://www.youtube.com/watch?v=rDcf0rs60Q0",
             "screenshots": {
               "aspectRatio": null,
               "images": []
