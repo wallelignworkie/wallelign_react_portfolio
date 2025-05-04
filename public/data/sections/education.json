@@ -22,17 +22,17 @@
             "faColors": { "bg": null, "fill": null }
           },
           "dates": {
-            "start": "09/01/2022",
-            "end": "06/01/2024"
+            "start": "09/01/2017",
+            "end": "11/10/2022"
           },
           "locales": {
             "en": {
               "title": "**BSc** in Software Engineering",
-              "info": "Wollo University/Kombolcha institute of technology ",
-              "text": "<p>Currently pursuing a PhD with a focus on deep learning and its real-world applications, particularly in:</p> <ul><li>Computer Vision</li><li>Innovative AI research</li><li>Developing novel algorithms for image recognition</li></ul> <p class='mt-3'>Engaged in cutting-edge research and contributing to AI advancement through publications in top-tier conferences.</p>",
+              "info": "Wollo University / Kombolcha Institute of Technology",
+              "text": "<p>I hold a Bachelor of Science degree in Software Engineering from Wollo University, where I developed a strong foundation in software development principles and their real-world applications. My academic focus included:</p> <ul><li>Web development</li><li>Mobile app development and requirements gathering</li><li>Designing innovative algorithms for image recognition</li></ul> <p class='mt-3'>I actively participated in research initiatives and contributed to system development through publications presented at top-tier academic conferences.</p>",
               "tags": [
-                "Deep Learning",
-                "Computer Vision",
+                "Web Development",
+                "Mobile App Development",
                 "AI Research",
                 "Algorithms"
               ]
