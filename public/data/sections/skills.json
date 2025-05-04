@@ -51,7 +51,7 @@
           },
           "locales": {
             "en": {
-              "title": "**App** creation",
+              "title": "**App** Development",
               "text": "I can make creative and innovative apps!"
             },
             "es": {
@@ -309,24 +309,23 @@
           },
           "locales": {
             "en": {
-              "title": "HTML5",
+              "title": "HTML5/CSS3",
               "info": null
             }
           }
         },
         {
           "icon": {
-            "img": null,
-            "fa": "fa-brands fa-css3",
+            "img": "images/pictures/tailwind-css.png",
             "faColors": { "bg": "#1572B6", "fill": "#EEE" }
           },
-          "value": 65,
+          "value": 80,
           "dates": {
-            "start": "01/15/2019"
+            "start": "01/15/2022"
           },
           "locales": {
             "en": {
-              "title": "CSS3",
+              "title": "Tailwind CSS",
               "info": null
             }
           }
@@ -356,7 +355,7 @@
           },
           "value": 95,
           "dates": {
-            "start": "06/20/2020"
+            "start": "06/20/2021"
           },
           "locales": {
             "en": {
@@ -390,7 +389,7 @@
           },
           "value": 90,
           "dates": {
-            "start": "02/10/2021"
+            "start": "02/10/2022"
           },
           "locales": {
             "en": {
