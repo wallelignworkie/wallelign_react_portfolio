@@ -62,9 +62,9 @@
 
           "locales": {
             "en": {
-              "title": "MailM8",
-              "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-              "tags": ["Flutter", "E-mail", "Communication"]
+              "title": "Effectorum",
+              "text": "A <b>cross-platform communication platform</b> built with <b>Flutter</b>, designed to connect brands with celebrities and artists for advertising and collaboration purposes. Effectorum provides an intuitive interface for managing communication efficiently and securely.",
+              "tags": ["Flutter", "Laravel", "State Management"]
             }
           }
         },
@@ -99,68 +99,28 @@
 
           "locales": {
             "en": {
-              "title": "Stackers",
-              "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
-              "tags": ["React", "Organization", "Notes"]
-            },
-            "es": {
-              "title": "Stackers",
-              "text": "Una app de productividad con todas las funciones, desarrollada con <b>React Native</b>, que permite a los usuarios organizar tareas, notas y proyectos en varios dispositivos. Ofrece <b>sincronización en la nube</b>, interfaz intuitiva y características de colaboración.",
-              "tags": ["React", "Organización", "Notas"]
-            },
-            "fr": {
-              "title": "Stackers",
-              "text": "Une application de productivité complète développée avec <b>React Native</b>, permettant aux utilisateurs d'organiser tâches, notes et projets sur plusieurs appareils. Elle offre <b>synchronisation cloud</b>, interface intuitive et fonctionnalités de collaboration.",
-              "tags": ["React", "Organisation", "Notes"]
-            },
-            "ko": {
-              "title": "Stackers",
-              "text": "<b>React Native</b>로 개발된 기능이 풍부한 생산성 앱으로, 사용자가 여러 기기에서 작업, 메모, 프로젝트를 <b>클라우드 동기화</b>와 직관적인 UI로 관리할 수 있습니다.",
-              "tags": ["React", "조직", "메모"]
+              "title": "Game App",
+              "text": "An engaging <b>mobile game</b> developed with <b>Flutter</b>, offering dynamic gameplay, smooth performance, and an intuitive user interface. The app is designed for both casual and competitive players, with features like leaderboards, rewards, and App Store deployment.",
+              "tags": ["Flutter", "State Management", "AppStore"]
             }
           }
         },
 
         {
           "categoryId": "websites",
-          "icon": {
-            "img": "images/pictures/project-logo-1.png",
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
-          },
 
           "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://cash.com" }
-          ],
-
-          "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww",
-            "screenshots": {
-              "aspectRatio": null,
-              "images": []
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://lije-care-dev.zikollab.com/"
             }
-          },
+          ],
 
           "locales": {
             "en": {
-              "title": "SmartCash",
-              "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
-              "tags": ["Next.js", "Finance", "Money"]
-            },
-            "es": {
-              "title": "SmartCash",
-              "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
-              "tags": ["Next.js", "Finanzas", "Dinero"]
-            },
-            "fr": {
-              "title": "SmartCash",
-              "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
-              "tags": ["Next.js", "Finance", "Argent"]
-            },
-            "ko": {
-              "title": "SmartCash",
-              "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
-              "tags": ["Next.js", "금융", "돈"]
+              "title": "Lije Cares",
+              "text": "A <b>website</b> built with <b>React</b>, designed for high performance with clean, maintainable code. Features include a well-structured admin dashboard and an advanced reporting page to enhance user management and analytics.",
+              "tags": ["REST API", "React- Toolkit", "React"]
             }
           }
         },
@@ -168,13 +128,16 @@
         {
           "categoryId": "websites",
           "icon": {
-            "img": "images/pictures/project-logo-5.png",
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
+            "img": "",
+            "fa": "fa-solid fa-truck-fast",
+            "faColors": { "bg": "#007396", "fill": "#EEE" }
           },
 
           "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://sweetscoops.com" }
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://tamagn-express-dev.gafattech.com/"
+            }
           ],
 
           "media": {
@@ -187,9 +150,32 @@
 
           "locales": {
             "en": {
-              "title": "Sweet Scoops",
-              "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
-              "tags": ["WooCommerce", "Food", "Desserts"]
+              "title": "Tamagne Express",
+              "text": "An <b>express delivery website</b> built to facilitate fast and reliable transportation of packages and materials from place to place, offering a smooth user experience and efficient logistics management.",
+              "tags": ["React", "Redux-toolkit", "Tailwindcss"]
+            }
+          }
+        },
+
+        {
+          "categoryId": "websites",
+          "links": [
+            { "faIcon": "fa-solid fa-link", "href": "https://novakidset.com/" }
+          ],
+
+          "media": {
+            "youtubeVideo": "",
+            "screenshots": {
+              "aspectRatio": null,
+              "images": []
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Hikell Ecommerce",
+              "text": "A dynamic <b>eCommerce website</b> built with <b>Laravel</b>, featuring a full shopping cart system, a multi-vendor marketplace where merchants can manage their own stores, and secure payment integrations with Stripe and Chapa.",
+              "tags": ["Laravel", "PHP", "Blade"]
             }
           }
         },
@@ -203,7 +189,10 @@
           },
 
           "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://rockverse.com" }
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://github.com/wallelignworkie/Abay-Ecommerce"
+            }
           ],
 
           "media": {
@@ -216,28 +205,12 @@
 
           "locales": {
             "en": {
-              "title": "RockVerse",
-              "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-              "tags": ["Django", "Music", "Rock"]
-            },
-            "es": {
-              "title": "RockVerse",
-              "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
-              "tags": ["Django", "Música", "Rock"]
-            },
-            "fr": {
-              "title": "RockVerse",
-              "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-              "tags": ["Django", "Musique", "Rock"]
-            },
-            "ko": {
-              "title": "RockVerse",
-              "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
-              "tags": ["Django", "음악", "록"]
+              "title": "Abay Ecommerce",
+              "text": "A modern <b>eCommerce website</b> built with <b>Laravel</b> and <b>PHP</b>, featuring a clean and user-friendly interface, detailed product pages, a smooth checkout experience, and integrated coupon systems to enhance user engagement and drive sales.",
+              "tags": ["Laravel", "PHP", "Blade", "Bootstrap", "jQuery"]
             }
           }
         },
-
         {
           "categoryId": "websites",
           "icon": {
@@ -247,7 +220,10 @@
           },
 
           "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://rockverse.com" }
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://github.com/wallelignworkie/Abay-Ecommerce"
+            }
           ],
 
           "media": {
@@ -260,24 +236,107 @@
 
           "locales": {
             "en": {
-              "title": "RockVerse",
-              "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-              "tags": ["Django", "Music", "Rock"]
-            },
-            "es": {
-              "title": "RockVerse",
-              "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
-              "tags": ["Django", "Música", "Rock"]
-            },
-            "fr": {
-              "title": "RockVerse",
-              "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-              "tags": ["Django", "Musique", "Rock"]
-            },
-            "ko": {
-              "title": "RockVerse",
-              "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
-              "tags": ["Django", "음악", "록"]
+              "title": "Shareholder Management System",
+              "text": "A <b>platform</b> built with <b>Node.js</b>, <b>Express.js</b>, and <b>React</b>, designed to help shareholders manage their shares online. The system allows users to sell shares, track transactions, and automatically calculate their profits through a secure and user-friendly interface.",
+              "tags": ["Node", "Express Js", "React"]
+            }
+          }
+        },
+        {
+          "categoryId": "websites",
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-guitar",
+            "faColors": { "bg": "#111", "fill": "#EEE" }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://github.com/wallelignworkie/Abay-Ecommerce"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": "",
+            "screenshots": {
+              "aspectRatio": null,
+              "images": []
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Kegebrew Credit Management System",
+              "text": "A <b>platform</b> built with <b>Node.js</b>, <b>Express.js</b>, and <b>React</b>, designed to help credit companies manage employee loans. The system facilitates issuing credits based on guarantees provided by companies or individuals, ensuring secure tracking and streamlined credit management.",
+              "tags": ["Node", "Express Js", "React"]
+            }
+          }
+        },
+        {
+          "categoryId": "websites",
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-guitar",
+            "faColors": { "bg": "#111", "fill": "#EEE" }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://github.com/wallelignworkie/Abay-Ecommerce"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": "",
+            "screenshots": {
+              "aspectRatio": null,
+              "images": []
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Nova Kids",
+              "text": "An interactive <b>learning platform</b> built with <b>Node.js</b>, <b>Express.js</b>, and <b>React</b>, designed to support children's education through engaging questions, personalized toy recommendations, and activity checklists that help guide learning and development.",
+              "tags": ["Node", "Express Js", "Next Js"]
+            }
+          }
+        },
+        {
+          "categoryId": "websites",
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-guitar",
+            "faColors": { "bg": "#111", "fill": "#EEE" }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://github.com/wallelignworkie/Abay-Ecommerce"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": "",
+            "screenshots": {
+              "aspectRatio": null,
+              "images": []
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Effectorum",
+              "text": "A cross-platform <b>web and mobile application</b> built to bridge the gap between <b>brands</b> and <b>influencers</b>. Effectorum facilitates seamless communication and collaboration for promotional campaigns and job opportunities, offering tools that support direct messaging, profile exploration, and campaign management.",
+              "tags": [
+                "Blade",
+                "Laravel",
+                "State Management",
+                "Payment Integration"
+              ]
             }
           }
         }
