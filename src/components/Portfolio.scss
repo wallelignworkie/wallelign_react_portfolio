@@ -1,46 +1,66 @@
 @import "/src/styles/extend";
 
-.portfolio {
-    width: 100%;
-    min-height: 100vh;
-    max-height: 100vh;
-    min-height: 100svh;
-    max-height: 100svh;
-    padding: $layout-blocks-spacing;
-    display: flex;
-    flex-direction: row;
-    overflow-y: hidden;
-    overflow-x: hidden;
+.download-cv {
+  margin-top: 24px;
+  text-align: center;
 
-    color: var(--theme-secondary);
+  .download-btn {
+    background-color: #141516;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    transition: background 0.3s;
 
-    @include media-breakpoint-down($sidebar-min-breakpoint) {
-        max-height: inherit;
-        padding: 0;
+    &:hover {
+      background-color: #171a1d;
     }
+  }
+}
+
+.portfolio {
+  width: 100%;
+  min-height: 100vh;
+  max-height: 100vh;
+  min-height: 100svh;
+  max-height: 100svh;
+  padding: $layout-blocks-spacing;
+  display: flex;
+  flex-direction: row;
+  overflow-y: hidden;
+  overflow-x: hidden;
+
+  color: var(--theme-secondary);
+
+  @include media-breakpoint-down($sidebar-min-breakpoint) {
+    max-height: inherit;
+    padding: 0;
+  }
 }
 
 .sidebar-wrapper {
-    display: flex;
-    padding-right: $layout-blocks-spacing;
-    @include media-breakpoint-down($sidebar-min-breakpoint) {
-        padding: 0;
-    }
+  display: flex;
+  padding-right: $layout-blocks-spacing;
+  @include media-breakpoint-down($sidebar-min-breakpoint) {
+    padding: 0;
+  }
 }
 
 .content-wrapper {
-    width: 100%;
+  width: 100%;
 
-    .content {
-        max-width: 1350px;
-        position: relative;
-        margin: 0 auto;
-    }
+  .content {
+    max-width: 1350px;
+    position: relative;
+    margin: 0 auto;
+  }
 }
 
 .nav-tabs-wrapper {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    z-index: $z-index-nav-tabs;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: $z-index-nav-tabs;
 }
